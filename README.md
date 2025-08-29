@@ -25,7 +25,7 @@ Welcome to my GitHub profile!
 ---
 
 ## 📚 University Projects
-Check out my full list of course projects here: [Course Projects](https://github.com/yourusername/yourrepo/blob/main/projects.md)
+Check out my full list of course projects here: [Course Projects](https://github.com/brunobrsr1/ist-projects-portfolio/blob/main/ist.md)
 
 ---
 
