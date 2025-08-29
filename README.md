@@ -24,6 +24,11 @@ Welcome to my GitHub profile!
 
 ---
 
+## 📚 University Projects
+Check out my full list of course projects here: [Course Projects](https://github.com/yourusername/yourrepo/blob/main/projects.md)
+
+---
+
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunobrsr1&show_icons=true&theme=radical)  
