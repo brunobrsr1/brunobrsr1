@@ -21,20 +21,3 @@ Welcome to my GitHub profile!
 
 ## 📚 University Projects
 Check out my full list of course projects here: [Course Projects](https://github.com/brunobrsr1/ist-projects-portfolio/blob/main/ist.md)
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunobrsr1&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunobrsr1&layout=compact&theme=radical)
-
----
-
-## 📫 Connect With Me
-
-- 📧 bruno.ms1silva@gmail.com
-
----
-
-*Thanks for visiting — let’s build something awesome! 🚀*
