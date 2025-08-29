@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 🎓 **About Me**  
 - 🧑‍💻 Computer Science student @ Instituto Superior Técnico  
 - ⚡ Currently exploring **Machine Learning**, **Cybersecurity** and **Software Engineering**  
-- 📚 Learning **Java**, **Spring Boor**
+- 📚 Learning **Java** and **Spring Boot**
 
 ---
 
