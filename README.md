@@ -20,7 +20,7 @@ Welcome to my GitHub profile!
 ---
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunobrsr1&show_icons=true&theme=dracula" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=brunobrsr1&hide=jupyter%20notebook&show_icons=true&theme=dracula" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobrsr1&layout=compact&theme=dracula" height="180"/>
 </p>
 
