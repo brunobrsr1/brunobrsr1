@@ -21,3 +21,9 @@ Welcome to my GitHub profile!
 
 ## 📚 University Projects
 Check out my full list of course projects here: [Course Projects](https://github.com/brunobrsr1/ist-projects-portfolio/blob/main/ist.md)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical" height="180"/>
+</p>
+
