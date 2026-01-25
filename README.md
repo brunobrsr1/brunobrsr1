@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a Computer Science student at **Instituto Superior Técnico (IST)**, Lisbon. I have a strong foundation in **Data Structures, Algorithms and Systems**, and I'm currently expanding my skills in **Full-Stack Development** and **Cloud Architecture**.
+I'm a Computer Science student at **Instituto Superior Técnico (IST)**, Lisbon. I have a strong foundation in **Data Structures, Algorithms and Systems**. Currently expanding my skills in **Full-Stack Development** and **Cloud Architecture**.
 
 * 🔭 Currently working on **scalable web applications with Spring Boot & React**.
 * 🌱 Learning **Advanced Java, Docker, and Microservices**.
