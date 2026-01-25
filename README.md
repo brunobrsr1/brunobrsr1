@@ -4,16 +4,16 @@
 
 <br/>
 
-### 👨‍💻 About Me
+### About Me
 
 I'm a Computer Science student at **Instituto Superior Técnico (IST)**, Lisbon. I have a strong foundation in **Data Structures, Algorithms and Systems**. Currently expanding my skills in **Full-Stack Development** and **Cloud Architecture**.
 
-* 🔭 Currently working on **scalable web applications with Spring Boot & React**.
-* 🌱 Learning **Advanced Java, Docker, and Microservices**.
+* Currently working on **scalable web applications with Spring Boot & React**.
+* Learning **Advanced Java, Docker, and Microservices**.
 
 ---
 
-### 🛠️ Technical Skills
+### Technical Skills
 
 <div align="left">
 
@@ -32,4 +32,4 @@ I'm a Computer Science student at **Instituto Superior Técnico (IST)**, Lisbon.
 </div>
 
 ---
-> 🎓 **Academic Portfolio:** Check out my university coursework and projects [here](https://github.com/brunobrsr1/ist-projects-portfolio/blob/main/ist.md).>
+> **Academic Portfolio:** Check out my university coursework and projects [here](https://github.com/brunobrsr1/ist-projects-portfolio/blob/main/ist.md).>
