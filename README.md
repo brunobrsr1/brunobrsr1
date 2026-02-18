@@ -1,4 +1,4 @@
-<<div align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi,+I'm+Bruno!+👋;CS+Student+%40+Técnico+Lisboa;Full-Stack+Enthusiast;Software+Engineering" alt="Typing SVG" />
 </div>
 
@@ -32,4 +32,4 @@ I'm a Computer Science student at **Instituto Superior Técnico (IST)**, Lisbon.
 </div>
 
 ---
-> **Academic Portfolio:** Check out my university coursework and projects [here](https://github.com/brunobrsr1/ist-projects-portfolio/blob/main/ist.md).>
+> **Academic Portfolio:** Check out my university coursework and projects [here](https://github.com/brunobrsr1/ist-projects-portfolio/blob/main/ist.md).
