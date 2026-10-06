@@ -6,10 +6,9 @@ Final-year Computer Science student at **Instituto Superior Técnico** in Lisbon
 
 **[fraud-scoring-platform](https://github.com/brunobrsr1/fraud-scoring-platform)** · Go  
 A real-time fraud-scoring service where model promotions go through a hand-written Raft registry, so changing the live model, or rolling it back mid-incident, is ordered, durable and observable.  
-**Done:** `POST /v1/score` with strict request validation and tests. **Next:** validating model artifacts on load, then Raft leader election.
 
 **[VérticeAI](https://verticeai.pt)** · live beta  
-An AI math tutor for Portuguese students preparing for the national exam. Instead of giving the answer, it asks the next right question, following the official grading criteria. Built AI-first; the product and architecture decisions are mine.
+An AI math tutor for Portuguese students preparing for the national exam. Instead of giving the answer, it asks the next right question, following the official grading criteria.
 
 ### Other projects
 
