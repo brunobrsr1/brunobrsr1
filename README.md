@@ -1,35 +1,28 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi,+I'm+Bruno!+👋;CS+Student+%40+Técnico+Lisboa;Full-Stack+Enthusiast;Software+Engineering" alt="Typing SVG" />
-</div>
+## Hi, I'm Bruno
 
-<br/>
+Final-year Computer Science student at **Instituto Superior Técnico** in Lisbon, planning to continue into the MSc with a focus on **distributed systems**. I'm drawn to infrastructure problems where one bad change can reach every machine in minutes, and I like shipping things people actually use.
 
-### About Me
+### Currently building
 
-I'm a Computer Science student at **Instituto Superior Técnico (IST)**, Lisbon. I have a strong foundation in **Data Structures, Algorithms and Systems**. Currently expanding my skills in **Full-Stack Development** and **Cloud Architecture**.
+**[fraud-scoring-platform](https://github.com/brunobrsr1/fraud-scoring-platform)** · Go  
+A real-time fraud-scoring service where model promotions go through a hand-written Raft registry, so changing the live model, or rolling it back mid-incident, is ordered, durable and observable.  
+**Done:** `POST /v1/score` with strict request validation and tests. **Next:** validating model artifacts on load, then Raft leader election.
 
-* Currently working on **scalable web applications with Spring Boot & React**.
-* Learning **Advanced Java, Docker, and Microservices**.
+**[VérticeAI](https://verticeai.pt)** · live beta  
+An AI math tutor for Portuguese students preparing for the national exam. Instead of giving the answer, it asks the next right question, following the official grading criteria. Built AI-first; the product and architecture decisions are mine.
 
----
+### Other projects
 
-### Technical Skills
+- **Multiplayer PacmanIST** · C, POSIX threads, named pipes · [part 1](https://github.com/brunobrsr1/PacmanIST) · [part 2](https://github.com/brunobrsr1/PacmanIST2)  
+  Operating Systems project at IST. A terminal Pacman that grew into a game server: client processes connect over named pipes, a producer-consumer queue guarded by semaphores and mutexes hands sessions to a pool of manager threads, and a `SIGUSR1` handler writes the five highest-scoring players to a file.
+- **[Liga Portugal Zone](https://github.com/brunobrsr1/LigaPortugalZoneWebsite)** · Java, Spring Boot, React, PostgreSQL, Docker  
+  A football statistics platform fed by a Python scraping pipeline.
+- **[Academic portfolio](https://github.com/brunobrsr1/ist-projects-portfolio/blob/main/ist.md)**: the rest of my coursework and projects at IST.
 
-<div align="left">
+### Tech
 
-**Languages** <br/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+Go · Java · C · Python · SQL · Spring Boot · React · PostgreSQL · Docker · Linux
 
-**Backend & Database** <br/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" /> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+### Contact
 
-**Frontend** <br/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-
-**Tools & DevOps** <br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-
-</div>
-
----
-> **Academic Portfolio:** Check out my university coursework and projects [here](https://github.com/brunobrsr1/ist-projects-portfolio/blob/main/ist.md).
+[LinkedIn](https://www.linkedin.com/in/brunobrsr) · bruno.ms1silva@gmail.com
