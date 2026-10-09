@@ -12,7 +12,7 @@ An AI math tutor for Portuguese students preparing for the national exam. Instea
 
 ### Other projects
 
-- **Multiplayer PacmanIST** · C, POSIX threads, named pipes · [part 1](https://github.com/brunobrsr1/PacmanIST) · [part 2](https://github.com/brunobrsr1/PacmanIST2)  
+- **Multiplayer PacmanIST** · C, POSIX threads, named pipes · [part 1](https://github.com/brunobrsr1/PacmanIST) · [part 2](https://github.com/brunobrsr1/so-pacman-server)  
   Operating Systems project at IST. A terminal Pacman that grew into a game server: client processes connect over named pipes, a producer-consumer queue guarded by semaphores and mutexes hands sessions to a pool of manager threads, and a `SIGUSR1` handler writes the five highest-scoring players to a file.
 - **[Liga Portugal Zone](https://github.com/brunobrsr1/LigaPortugalZoneWebsite)** · Java, Spring Boot, React, PostgreSQL, Docker  
   A football statistics platform fed by a Python scraping pipeline.
